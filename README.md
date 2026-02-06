@@ -46,9 +46,3 @@ This documentation outlines the standard procedure for installing **Kali Linux 2
 sudo apt update && sudo apt upgrade -y
 
 ```
-
-
-
----
-
-**Would you like me to generate a checklist of the essential security tools included in this version of Kali?**
