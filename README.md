@@ -46,3 +46,4 @@ This documentation outlines the standard procedure for installing **Kali Linux 2
 sudo apt update && sudo apt upgrade -y
 
 ```
+* **Remove Narrator:** To remove the narrator in the background, open 
